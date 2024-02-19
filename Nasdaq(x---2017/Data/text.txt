@@ -1,8 +1,0 @@
-Content
-The data (last updated 11/10/2017) is presented in CSV format as follows: Date, Open, High, Low, Close, Volume, OpenInt. Note that prices have been adjusted for dividends and splits.
-
-Historical Stock Market Dataset – This dataset includes the historical daily prices and volume information for US stocks and ETFs trading on NASDAQ, NYSE, and NYSE MKT. The data was last updated on November 10th, 2017 and the files are all in CSV format.
-
-
-Historical Stock Market Dataset – This dataset includes the historical daily prices and volume information for US stocks and ETFs trading on NASDAQ, NYSE, and NYSE MKT. The data was last updated on November 10th, 2017 and the files are all in CSV format.
-https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs
