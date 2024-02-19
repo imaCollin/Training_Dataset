@@ -1,5 +1,0 @@
-Stock Market Turnover Ratio – This information comes from the Federal Reserve Bank of St. Louis. The dataset contains data about the total value of shares traded during certain time periods versus the average market capitalization for that period.
-
-Ratio of the value of total shares traded to average real market capitalization, the denominator is deflated using the following method: Tt/P_at/{(0.5)*[Mt/P_et + Mt-1/P_et-1] where T is total value traded, M is stock market capitalization, P_e is end-of period CPI. End-of period CPI (IFS line 64M..ZF or, if not available, 64Q..ZF) and annual CPI (IFS line 64..ZF) are from the IMF's International Financial Statistics. Standard & Poor's, Global Stock Markets Factbook and supplemental S&P data)
-
-https://fred.stlouisfed.org/series/DDEM01USA156NWDB
