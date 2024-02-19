@@ -1,0 +1,2 @@
+NilUniqlo Stock Price Prediction – The previous items on this list featured general stock market data. However, this dataset focuses solely on a single company, Uniqlo. One of the largest clothing retailers in Japan, Uniqlo has been around for over five decades. This dataset includes the stock information for the company from 2012 to 2016.
+https://www.kaggle.com/daiearth22/uniqlo-fastretailing-stock-price-prediction
