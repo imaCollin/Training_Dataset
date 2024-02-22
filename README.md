@@ -1,5 +1,5 @@
 # Training_Dataset
-## Cleaned datasets for training and testing
+## Processed datasets for training and testing
 ### Categories
 #### Spatial feature datasets
 #### Temporal feature datasets
